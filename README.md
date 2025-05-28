@@ -1,4 +1,4 @@
-# 🧠 Project Title – HackVortex 2025 Submission
+# 🧠 – HackVortex 2025 Submission
 
 An AI-powered Flutter app that not only answers user queries but also guides navigation by highlighting the next UI element, monitors the screen in real time, detects errors, and delivers instant feedback — perfect for onboarding, accessibility, and intelligent UI assistance.
 
