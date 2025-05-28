@@ -23,7 +23,7 @@ _Add relevant screenshots here to showcase features._
 
 ## 📦 Installation
 
-```bash
+bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 flutter pub get
