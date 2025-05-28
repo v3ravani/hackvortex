@@ -18,8 +18,8 @@ _Add relevant screenshots here to showcase features._
 
 - **Flutter** – UI toolkit for building apps
 - **Dart** – Programming language
-- **[Your AI/ML SDK or API]**
-- **[Any Backend Used: Firebase, Supabase, etc.]**
+- **Google gemini API**
+- ** Firebase, Supabase**
 
 ## 📦 Installation
 
