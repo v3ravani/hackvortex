@@ -25,7 +25,7 @@ _Add relevant screenshots here to showcase features._
 
 bash
 git clone https://github.com/v3ravani/hackvortex
-cd your-repo-name
+
 flutter pub get
 flutter run
 
